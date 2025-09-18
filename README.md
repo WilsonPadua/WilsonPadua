@@ -8,7 +8,7 @@ I'm a **Computer Science** student at UFCG, actively working on personal project
 
 ---
 ## 🧠 Skills & Tools
-![Your Skills](https://skillicons.dev/icons?i=java,python,git,arduino,C,github&theme=light)
+![Your Skills](https://skillicons.dev/icons?i=java,python,git,arduino,C#,github&theme=light)
 ---
 
 ## 🌱 I’m currently learning
