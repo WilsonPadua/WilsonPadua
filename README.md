@@ -1,5 +1,5 @@
 ## I'm Joao Wilson! 👋
-I'm a **Computer Science** student at UFCG, actively working on personal projects and continuously developing my skills. I'm passionate about building and learning, and I'm excited to explore new challenges in the tech world.
+I’m a **Computer Science** student at UFCG, dedicated to developing personal projects and expanding my skills. I enjoy exploring new challenges and creating solutions in the tech world.
 ---
 
 ## 🚀 About Me
